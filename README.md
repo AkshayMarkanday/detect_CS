@@ -20,7 +20,7 @@
 
 ### 2.1. [Installation packages](#installation-packages)
 
-#### 2.2. [Initialization](#initialization)
+### 2.2. [Initialization](#initialization)
 
 ## 3. [How to use EPICS](#how-to-use-epics)
 
